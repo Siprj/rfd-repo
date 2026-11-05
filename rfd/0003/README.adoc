@@ -1,0 +1,62 @@
+:showtitle:
+:toc: left
+:numbered:
+:icons: font
+:state: discussion
+:revremark: State: discussion
+:authors: Jan Sipr <sipr.jan@gmail.com>
+
+= RFD 3 Adopt Coffee-Driven Development
+
+== Introduction
+
+This RFD proposes the formal adoption of Coffee-Driven Development (CDD) as the
+primary software development methodology for all engineering teams.
+
+== Background
+
+Studies have consistently shown that developer productivity correlates strongly
+with caffeine intake. Despite this, our organization has no formal policy
+regarding coffee consumption during development hours.
+
+== Problem Statement
+
+Current development practices do not account for the critical role of coffee in
+the software development lifecycle. This leads to:
+
+* Inconsistent code quality during pre-coffee hours
+* Reduced commit frequency before 10 AM
+* Suboptimal code review thoroughness in the afternoon slump
+
+== Proposed Solution
+
+=== Core Principles
+
+1. **No deploys before first coffee** - All production deployments must occur
+   after the deploying engineer has consumed at least one cup of coffee.
+
+2. **Double-brew code reviews** - Critical code reviews require reviewers to be
+   on their second cup minimum.
+
+3. **Espresso-driven debugging** - Complex debugging sessions should be
+   accompanied by espresso rather than drip coffee, as the increased
+   concentration of caffeine maps to the increased concentration required.
+
+=== Implementation Timeline
+
+* **Phase 1**: Install espresso machines on every floor (Week 1-2)
+* **Phase 2**: Integrate coffee consumption tracking into CI/CD pipeline (Week 3-4)
+* **Phase 3**: Add `X-Coffee-Count` header to all git commits (Week 5-6)
+
+== Alternatives Considered
+
+=== Tea-Driven Development
+
+Rejected due to insufficient caffeine density and excessive steeping time
+blocking the developer event loop.
+
+=== Energy Drink Development
+
+Rejected on the grounds of taste and the observation that code written under
+energy drink influence tends to have an unusually high density of exclamation
+marks in comments.
