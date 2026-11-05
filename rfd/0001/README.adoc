@@ -1,0 +1,24 @@
+:showtitle:
+:toc: left
+:numbered:
+:icons: font
+:state: published
+:revremark: State: published
+:authors: Your Name <you@example.com>
+
+= RFD 1 Hello World
+
+== Introduction
+
+This is a sample RFD to verify the rfd-api setup is working correctly.
+
+== Background
+
+RFDs (Requests for Discussion) are a lightweight process for proposing and
+discussing changes. Each RFD lives in its own numbered directory and is written
+in AsciiDoc format.
+
+== Proposal
+
+This RFD serves as a template. Copy this directory, increment the number, and
+start writing.

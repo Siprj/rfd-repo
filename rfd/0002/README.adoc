@@ -1,0 +1,21 @@
+:showtitle:
+:toc: left
+:numbered:
+:icons: font
+:state: discussion
+:revremark: State: discussion
+:authors: Your Name <you@example.com>
+
+= RFD 2 Example Discussion
+
+== Introduction
+
+This is a second sample RFD in the discussion state.
+
+== Problem Statement
+
+Describe the problem you are trying to solve here.
+
+== Proposed Solution
+
+Describe your proposed solution here.
